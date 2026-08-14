@@ -1,5 +1,5 @@
 ---
-name: 결함
+name: 결함등록
 about: 동작하지 않는 문제를 등록
 labels: bug
 ---
