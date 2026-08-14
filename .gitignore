@@ -1,0 +1,21 @@
+# 접속 정보 · 자격증명
+config.properties
+*.properties
+*.env
+.env
+*.pem
+*.key
+
+# 빌드 결과물
+build/
+target/
+out/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# 운영체제 생성 파일
+.DS_Store
+Thumbs.db
